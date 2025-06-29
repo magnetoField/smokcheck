@@ -1,129 +1,69 @@
 ---
 layout: default
 ---
-
-SmokCheck the only thing you need to breathe freely.
 <video class="background" autoplay loop muted playsinline>
   <source src="{{ site.baseurl }}/assets/trees.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Problem?
 
-[Link to another page](./another-page.html).
+ * Gdy idę pobiegać czy robię to dla zdrowia?
+ * Gdzie pójść z wózkiem na spacer?
+ * Czy zanieczyszczenie drobnymi pyłami jest równomierne w mieście?
 
-There should be whitespace between paragraphs.
+# Rozwiązanie
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+ * Dostarczymy narzędzia które pozwolą na samodzielny monitoring jakości powietrza.
+ * Uytkownicy będą mogli udostępniać sobie zielone trasy i zielone zakątki
+ * Dane z sensorów będą wykorzystywane przez opearotra do lepszej analizy propagacji zanieczyszczeń.
 
-# Header 1
+# Innowacyjność pomysłu
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Mierniki jakości powietrza w większości są instalowane stacjonarnie.
+* Różne stężenie pyłów na różnych wysokościach.
+* Innowacyjny design wywołujący żądze posiadania.
 
-## Header 2
+# Impact
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+ * zwiększenie świadomości o zanieczyszczeniach powietrza w twojej okolicy
+ * zmiana spojrzenia na dotychczasowe wybory
+ * Ochrona przed miejscami mogących mieć wpływ na długoterminowy stan zdrowia.
 
-### Header 3
+# Model Biznesowy
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Sprzedaż urządzeń retail. Upload telemetri do otwartych serwisów.
+* 200 PLN za urządzenie.
+* Osoby dbające o zdrowie, sportowcy, młodzi rodzice.
+* Media społecznościowe, sieci influencerów.
+* Estetyczny design. Nanoszenie pomiarów na mapę i udostępnianie scieżek. Modele predykcji.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Zastosowanie technologie
 
-#### Header 4
+ * BBC:microbit
+ * MIT App Inventor
+ * MakeCode Microbit
+ * Github pages, Yekyll
+ * Sharp GP2Y1010AU0F Compact optical Dust Sensor
+ * Cyna bezołowiowa, rezystor 150 Ohm, kondensator 220uF
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Faza rozwoju
 
-##### Header 5
+ * Pomysł siedział w głowie od 2 lat, sensor od roku leżał w szufladzie
+ * Udało się zrobić PoC, wersja prototypowa do testów pomiarów.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Zespół
 
-###### Header 6
+ * Projektant produktu
+ * Artysta grafik aplikacji
+ * Mistrz sprzedaży
+ * Programista
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Plany na przyszłość
 
-### There's a horizontal rule below this.
+* Używać, testować i bawić się.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+# Twój sąsiad już to ma!
+## Kup już teraz, zanim będzie za późno!
+### Zamów w przedsprzedaży. Ilość mocno ograniczona!
 ```

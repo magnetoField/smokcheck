@@ -3,7 +3,7 @@ layout: default
 ---
 
 SmokCheck the only thing you need to breathe freely.
-<video controls width="640" height="360">
+<video autoplay loop muted playsinline>
   <source src="{{ site.baseurl }}/assets/trees.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
